@@ -20,10 +20,7 @@ Advanced Form Elements. Child Windowses. Basics of Working With Keyboard.
   * Menus and Other Resources
   * Dialog Boxes
 
-# Windows Programming Laboratory Work #3
-[Initial version](https://github.com/TUM-FAF/WP/blob/master/lab%233/README.md)
-
-### [Lab 2]https://github.com/TUM-FAF/WP2/blob/master/WP_LAB%233.md)
+### [Lab 3](https://github.com/TUM-FAF/WP2/blob/master/WP_LAB%233.md)
 Basics of Working with Mouse. GDI Primitives. Bezier Curve.
  * Mouse
  * Device context
