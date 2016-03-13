@@ -14,19 +14,6 @@ Basics of Working with Mouse. GDI Primitives. Bezier Curve.
   * Bitmap image
 * Bezier curve
 
-## Mandatory Objectives
-
-
-## Objectives With Points
-
-
-
-* Delete objects using mouse clicking **(2 pt)**
-* Use mouse as an eraser of:
-  * a fixed width **(1 pt)**
-  * a adjustable width **(2 pt)**
-* Zoom in and out application working area using keyboard **(2 pt)**
-
 ### Laboratory work Requirements:
   - for _Basic Level_ (grade 5 || 6) you should be able to:
     * Draw 5 lines of different colors and weights
