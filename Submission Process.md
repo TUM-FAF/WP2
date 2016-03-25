@@ -11,7 +11,7 @@ When your repository is set up, I suggest doing following steps:
 * Create a WP folder
 * Create laboratory work #1 folder (Lab#1)
 * Work on your lab, commit often (when necessary)
-* When your work is done, write a readme that explains what you've done, any problems you encountered, any things you are proud of (and other related stuff). If you project requires some specific steps to be done in order to compile/run your project, add this details in README.
+* When your work is done, write a readme that explains what you've done, any problems you encountered, any things you are proud of (and other related stuff). If you project requires some specific steps to be done in order to compile/run your project, add this details in README. [how to do this](https://daringfireball.net/projects/markdown/syntax)
 * Merge branch with master (if you worked not on master)
 * Push changes to GitHub
 * Create a laboratory work report that will contain ([example](https://github.com/TUM-FAF/WP2/tree/master/TEX%20template)):
