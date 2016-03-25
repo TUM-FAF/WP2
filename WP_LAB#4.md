@@ -16,8 +16,7 @@ Windows Timer. Animation.
     * Solve flicking problem _describe in your readme/report the way you had implemented this_
   - for _Advanced Level_ (grade 9 || 10) you should be able to:
     * Realize the tasks from _Norma Level_ without _Basic Level_
-    * Add 2 animated objects which will interact with each other, ex:
-      * Balls that have different velocity and moving angles. They should behave based on following rules:
+    * Add 2 animated objects which will interact with each other. Balls that have different velocity and moving angles. They should behave based on following rules:
         * At the begining you should have 3 bals of different colours of the same size
         * On interaction with each other, if they are of the same class (circle, square), they shuld change their color and be multiplied.
         * On interaction with the wall (the margins of the window), they should be transformed into rectangle
