@@ -24,7 +24,7 @@ Windows Timer. Animation.
         * Please, take into consideration that the user can Increase and decrease animation speed using mouse wheel/from keebord 
     
   - for _Bonus Point Tasks_ :
-    * For the task above, add balls with mouse and make them to multiply during interaction with each other.
+    * For the task above, add balls with mouse.
 
  
 ## References
