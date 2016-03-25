@@ -10,15 +10,19 @@ Windows Timer. Animation.
 ### Laboratory work Requirements:
   - for _Basic Level_ (grade 5 || 6) you should be able to:
     * Create an animation based on Windows timer which involves at least 5 different drawn objects
-
   - for _Normal Level_ (grade 7 || 8) you should be able to:
     * Realize the tasks from _Basic Level_.
-    * Increase and decrease animation speed using mouse wheel
+    * Increase and decrease animation speed using mouse wheel/from keebord 
     * Solve flicking problem _describe in your readme/report the way you had implemented this_
   - for _Advanced Level_ (grade 9 || 10) you should be able to:
+    * Realize the tasks from _Norma Level_ without _Basic Level_
     * Add 2 animated objects which will interact with each other, ex:
-      * Trafic light based on some timer. It will change the colors based on some interval that can be changed by the user.
-      * Balls that have different velocity and moving angles. On interaction with each other, they shuld change some of their properties (color, velocity, size, etc)
+      * Balls that have different velocity and moving angles. They should behave based on following rules:
+        * At the begining you should have 3 bals of different colours of the same size
+        * On interaction with each other, if they are of the same class (circle, square), they shuld change their color and be multiplied.
+        * On interaction with the wall (the margins of the window), they should be transformed into rectangle
+        * On interaction with the cornes - to be transformed into squares
+        * Please, take into consideration that the user can Increase and decrease animation speed using mouse wheel/from keebord 
     
   - for _Bonus Point Tasks_ :
     * For the task above, add balls with mouse and make them to multiply during interaction with each other.
