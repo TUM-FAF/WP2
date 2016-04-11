@@ -24,11 +24,12 @@ Collaboration. Complex application: Trafic light
 
   - for _Basic Level_ (grade 5 || 6) you should be able to:
     * Simulate the work of a traffic light for an intersection with 4 traffic lights.
-    Inline-style: 
-    ![ It may look like this](http://www.rms.nsw.gov.au/images/roads/safety-rules/roadrules/traffic-lights-car-a.jpg) "Logo Title Text 1")
+    ![sketch](http://www.rms.nsw.gov.au/images/roads/safety-rules/roadrules/traffic-lights-car-a.jpg) "Graphical example")
+    * The user should be able to increse the speed of traffic light (interval when colors are changed)
+    * The user may be able to increase the number of generated random cars 
   - for _Normal Level_ (grade 7 || 8) you should be able to:
     * Realize the tasks from _Basic Level_.
-    * 
+    *     * In the simulation should be added 2 crosswalks
   - for _Advanced Level_ (grade 9 || 10) you should be able to:
     * 
   - for _Bonus Point Tasks_ :
