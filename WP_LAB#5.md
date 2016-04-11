@@ -23,7 +23,9 @@ Collaboration. Complex application: Trafic light
 * Simulate the work of a traffic light
 
   - for _Basic Level_ (grade 5 || 6) you should be able to:
-    *
+    * Simulate the work of a traffic light for an intersection with 4 traffic lights.
+    Inline-style: 
+    ![ It may look like this](http://www.rms.nsw.gov.au/images/roads/safety-rules/roadrules/traffic-lights-car-a.jpgv "Logo Title Text 1")
   - for _Normal Level_ (grade 7 || 8) you should be able to:
     * Realize the tasks from _Basic Level_.
     * 
