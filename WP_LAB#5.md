@@ -1,7 +1,7 @@
 # Windows Programming Laboratory Work #5
 [Initial version](https://github.com/TUM-FAF/WP/edit/master/lab%235/README.md)
 
-Extended DL: 20 of April
+Extended DL: 29 of April
 
 ## Title
 Collaboration. Complex application: Traffic light
